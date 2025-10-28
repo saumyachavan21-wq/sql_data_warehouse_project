@@ -1,0 +1,10 @@
+/*
+=====================================================================================================================
+DDL Script:Create Bronze Tables
+=====================================================================================================================
+Purpose:
+  This script create tables in "bronze" database,dropping existing tables if already exist.
+  Run this script to redefine the DDL structure of "bronze" Tables
+  =====================================================================================================================
+  */
+USE bronze;
